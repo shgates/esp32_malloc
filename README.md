@@ -36,4 +36,4 @@ The __xTaskListenAndSend__ task continuously listens for incoming characters on 
 The __xTaskReceiveMessage__ task waits for a signal from xTaskListenAndSend. Once a message is available, it retrieves and processes the message, demonstrating proper memory management.
 
 
-- Feel free to explore, modify, and expand upon this project for your own learning and experimentation.
+Feel free to explore, modify, and expand upon this project for your own learning and experimentation.
